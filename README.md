@@ -103,7 +103,7 @@ Here are the professional languages and tools I'm proficient with:
 </div>
 
 ## Some Personal projects I've built from ground-up.
-<h3>TrioCart, an E-commerce website for online dress shopping categorized for Ladies,Men and Kids</h3>
+<h3>A MERN Stack Contact applictation for storing the contacts, where i used the React and redux in the frontend and MongoDB and express in the backend</h3>
 <!-- <img src="https://drive.google.com/uc?export=view&id=1SxoVFCzGGAVOTlIHN3a8egDmXi_OZOY7" alt="Your GIF" />
 <br/><br/><br/> -->
 <br/><br/><br/>
